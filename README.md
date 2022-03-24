@@ -1,5 +1,5 @@
-# Car-Price-Prediction
-
+# Car Price Prediction Multiple Linear Regression
+## Predicting the Prices of cars using RFE (Recursive feature elimination technique) and VIF (Variance Inflation Factor)
 ## Problem Statement
 
 * A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts. 
@@ -67,3 +67,15 @@ You are required to model the price of cars with the available independent varia
 
 - price(Dependent variable)		:- Price of car (Numeric)		
 
+## Steps to Follow:
+* Problem Statement
+* Import Libraries
+* Import Dataset
+* Data Exploration
+* Exploratory Data Analysis(EDA)
+* Data Visualization
+* Data Cleaning
+* Train Test Split and Feature Scaling
+* Model Building
+* Making Prediction
+* Conclusion
